@@ -1,0 +1,19 @@
+Temat: temat spotkania
+Terminy spotkania: XXX
+Uczestnicy:XXX
+Nieobecni: XXX
+Miejsce spotkania: XXX
+
+Słownik:
+[i] - informacja
+[?] - pytanie, niewiadoma
+[!] - pomysł, idea, propozycja inicjatywy
+[a] - rzecz do zrobienia (tzw. action point)
+-> 	- przypisanie
+[x] - rzecz zrobiona
+
+Uwagi do raportu proszę przesyłać w ciągu nabliższych dwu dni roboczych po spotkaniu na adres: xxxx@xxxxx.
+Brak uwag do tego terminu oznacza że uwag nie było i dokument/treść spotkania jest uzgodniona.
+
+--------------------------------------------------------------------------------
+ISSUE: XXX
