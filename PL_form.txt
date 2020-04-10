@@ -15,6 +15,6 @@ Słownik:
 
 Uwagi do raportu proszę przesyłać w ciągu nabliższych dwu dni roboczych po spotkaniu na adres: xxxx@xxxxx.
 Brak uwag do tego terminu oznacza że uwag nie było i dokument/treść spotkania jest uzgodniona.
-
+źródło: https://github.com/hobbitpl/minutes_report
 --------------------------------------------------------------------------------
 ISSUE: XXX
