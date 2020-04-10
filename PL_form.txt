@@ -1,7 +1,7 @@
 xxxxxx.m.txt
 
 Temat: temat spotkania
-Terminy spotkania: XXX
+Termin spotkania: XXX
 Uczestnicy:XXX
 Nieobecni: XXX
 Miejsce spotkania: XXX
