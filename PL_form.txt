@@ -9,6 +9,7 @@ Słownik:
 [?] - pytanie, niewiadoma
 [!] - pomysł, idea, propozycja inicjatywy
 [a] - rzecz do zrobienia (tzw. action point)
+[r] - ryzyko
 -> 	- przypisanie
 [x] - rzecz zrobiona
 
