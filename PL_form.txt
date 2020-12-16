@@ -1,22 +1,29 @@
 xxxxxx.m.txt
 
-Temat: temat spotkania
-Termin spotkania: XXX
-Uczestnicy:XXX
-Nieobecni: XXX
-Miejsce spotkania: XXX
-
+Temat: topic_subject
+Projekt: project_name
+Data: xxx
+Uczestnicy: xxx
+Nieobecni: xxx
+Miejsce spotkania: xxx
+------------------------------------------------------------------------------------------------
 Słownik:
 [i] - informacja
-[?] - pytanie, niewiadoma
-[!] - pomysł, idea, propozycja inicjatywy
 [a] - rzecz do zrobienia (tzw. action point)
+[!] - pomysł, idea, propozycja inicjatywy
+[?] - pytanie, niewiadoma
 [r] - ryzyko
--> 	- przypisanie
+[*] - uwaga wewnętrzna
 [x] - rzecz zrobiona
-
-Uwagi do raportu proszę przesyłać w ciągu nabliższych dwu dni roboczych po spotkaniu na adres: xxxx@xxxxx.
+-> 	- przypisanie
+------------------------------------------------------------------------------------------------
+Uwagi do raportu proszę przesyłać w ciągu najbliższych dwu dni roboczych po spotkaniu na adres:
+xxxx@xxxxx.xxx
 Brak uwag do tego terminu oznacza że uwag nie było i dokument/treść spotkania jest uzgodniona.
+------------------------------------------------------------------------------------------------
+ISSUE: issue_topic
+
+xxx
+
+------------------------------------------------------------------------------------------------
 źródło: https://github.com/hobbitpl/minutes_report
---------------------------------------------------------------------------------
-ISSUE: XXX
